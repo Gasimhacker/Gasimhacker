@@ -28,17 +28,7 @@ A university project designed to manage schedules efficiently. This project inco
 
 
 ## 🛠 Skills
-#### :computer: Languages: C, Python, JavaScript, Bash, SQL
-#### :globe_with_meridians: Web Technologies: HTML, CSS
-#### :iphone: Mobile Development: Flutter
-#### :wrench: Frameworks: Flask
-#### :floppy_disk: Databases: MySQL, PostgreSQL
-#### :hourglass: Object-Relational Mapping (ORM): SQLAlchemy
-#### :construction_worker: REST API Development: Experience in building RESTful APIs to facilitate communication between different components of a software system.
-#### :rotating_light: DevOps: deploying and managing applications in production environments.
-#### :rocket: Reverse Engineering: Disassembling and analyzing binary code
-#### :bulb: Familiarity with network analysis tools (Wireshark,tcpdump, Ettercap)
-#### :lock: Security: passionate about ethical hacking and ensuring the security of software systems.
+[![My Skills](https://skillicons.dev/icons?i=git,c,python,bash,html,css,js,nginx,vim,linux,jquery,flask,mysql,postgres,flutter,dart&perline=8)](https://skillicons.dev)
 
 
 ## 🌱 Interests
@@ -51,5 +41,4 @@ A university project designed to manage schedules efficiently. This project inco
 # 📫 Let's Connect!
 ### Feel free to reach out if you have any questions or just want to connect!
 
-#### [LinkedIn](https://www.linkedin.com/in/mohammed-ahmed-gasim/)
-#### [Twitter](https://x.com/gasimhacker)
+#### [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-ahmed-gasim/) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/gasimhacker)
